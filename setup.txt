@@ -1,0 +1,52 @@
+1. Create Project Locally
+Open your terminal:
+
+mkdir datacamp-langchain-learning
+cd datacamp-langchain-learning
+
+echo "venv/" > .gitignore
+
+Optional .gitignore contents:
+venv/
+__pycache__/
+*.pyc
+.env
+
+2. Initialize Git
+
+git init
+
+3. Set Up Virtual Environment
+python -m venv venv
+venv\Scripts\activate
+
+
+4. Install Required Packages
+
+pip install langchain openai
+pip freeze > requirements.txt
+
+
+5. Create Project Files
+New-Item -Path main.py -ItemType File
+
+
+Create the Repo on GitHub
+Go to 👉 https://github.com/new
+
+Name the repo: datacamp-langchain-learning
+
+Make sure:
+
+It's under your GitHub account (rafsaw)
+
+Don't check “Initialize with README”
+
+Click "Create repository"
+
+
+6. Set the Correct Remote URL Locally
+git remote set-url origin https://github.com/rafsaw/datacamp-langchain-learning.git
+
+7. Push Your Code 
+git push --set-upstream origin master
