@@ -1,0 +1,3 @@
+venv\Scripts\activate
+
+python 01-dev-llm-app\chapter01-1.py
