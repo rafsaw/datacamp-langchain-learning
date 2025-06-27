@@ -1,0 +1,49 @@
+LangChain used Hugging Face under the hood to:
+
+    Connect to the Hugging Face Hub
+
+    Find the model with ID crumb/nano-mistral
+
+    Download the necessary files to run it locally on your machine
+
+
+| File                        | Purpose                                      |
+| --------------------------- | -------------------------------------------- |
+| `tokenizer_config.json`     | Configuration for how text is tokenized      |
+| `tokenizer.model` / `.json` | Tokenization rules (maps text to tokens)     |
+| `model.safetensors`         | The actual trained model weights (\~340MB)   |
+| `config.json`               | Model settings like architecture, layers     |
+| `generation_config.json`    | Text generation defaults (e.g., temperature) |
+
+🧠 Why "on first run"?
+Because once it's downloaded:
+
+    These files are cached locally (under ~/.cache/huggingface)
+
+    On next runs, Hugging Face will reuse the local copy, so it will load instantly and not redownload
+
+You’ll only see those progress bars once per model.
+
+
+LangChain’s HuggingFacePipeline, it downloads files to:
+~/.cache/huggingface/ (C:\Users\<your-username>\.cache\huggingface\)
+
+The directory typically contains:
+huggingface
+└── hub
+    └── models--crumb--nano-mistral
+        ├── blobs/
+        ├── refs/
+        ├── snapshots/
+        │   └── <commit-id>/
+        │       ├── config.json
+        │       ├── tokenizer_config.json
+        │       ├── tokenizer.model
+        │       ├── model.safetensors
+        │       └── generation_config.json
+
+Want to Change the Cache Location?
+ in Python:
+
+import os
+os.environ["HF_HOME"] = "/your/custom/path"

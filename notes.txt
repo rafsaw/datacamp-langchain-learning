@@ -1,3 +1,10 @@
 venv\Scripts\activate
 
 python 01-dev-llm-app\chapter01-1.py
+
+
+python 01-dev-llm-app\02\02.py
+
+
+
+pip freeze > requirements.txt
