@@ -5,6 +5,10 @@ python 01-dev-llm-app\chapter01-1.py
 
 python 01-dev-llm-app\02\02.py
 
-
+python 02-RAG-LangChain\01\01.py
 
 pip freeze > requirements.txt
+
+
+
+python 02-RAG-LangChain\03\01-wikipedia-soundgarden.py
