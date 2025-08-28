@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "id": "Albert Einstein",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Marie Curie",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Nobel Prize In Physics",
+      "type": "Award",
+      "properties": {}
+    },
+    {
+      "id": "Nobel Prize In Chemistry",
+      "type": "Award",
+      "properties": {}
+    },
+    {
+      "id": "Theory Of Relativity",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Photoelectric Effect",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Radioactivity",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Radium",
+      "type": "Element",
+      "properties": {}
+    },
+    {
+      "id": "Polonium",
+      "type": "Element",
+      "properties": {}
+    },
+    {
+      "id": "Pierre Curie",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Henri Becquerel",
+      "type": "Person",
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Albert Einstein",
+      "target": "Theory Of Relativity",
+      "type": "KNOWN_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Albert Einstein",
+      "target": "Nobel Prize In Physics",
+      "type": "AWARDED",
+      "properties": {}
+    },
+    {
+      "source": "Marie Curie",
+      "target": "Radioactivity",
+      "type": "KNOWN_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Marie Curie",
+      "target": "Nobel Prize In Physics",
+      "type": "AWARDED",
+      "properties": {}
+    },
+    {
+      "source": "Marie Curie",
+      "target": "Nobel Prize In Chemistry",
+      "type": "AWARDED",
+      "properties": {}
+    },
+    {
+      "source": "Marie Curie",
+      "target": "Radium",
+      "type": "DISCOVERED",
+      "properties": {}
+    },
+    {
+      "source": "Marie Curie",
+      "target": "Polonium",
+      "type": "DISCOVERED",
+      "properties": {}
+    },
+    {
+      "source": "Pierre Curie",
+      "target": "Nobel Prize In Physics",
+      "type": "SHARED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Henri Becquerel",
+      "target": "Nobel Prize In Physics",
+      "type": "SHARED_WITH",
+      "properties": {}
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+
+================================================================================
+TIMESTAMP: 2025-06-26 17:17:00
+MODE: RESTRICTIVE
+QUESTION: What is RAG?
+
+ANSWER:
+RAG is known for improving accuracy in large models and is highly effective in instances where data is contextually relevant, such as in the interpretation of farm data.
+================================================================================
+
+
+================================================================================
+TIMESTAMP: 2025-06-26 17:17:02
+MODE: RESTRICTIVE
+QUESTION: Compare RAG and fine-tuning costs
+
+ANSWER:
+The context does not provide specific information regarding the costs of RAG compared to fine-tuning. Therefore, it is not possible to compare their costs based on the given context.
+================================================================================
+
+
+================================================================================
+TIMESTAMP: 2025-06-26 17:17:03
+MODE: RESTRICTIVE
+QUESTION: What are the limitations of each approach?
+
+ANSWER:
+The provided context does not include any information about the limitations of the approaches mentioned. Therefore, I cannot answer the question based on the given context.
+================================================================================
+

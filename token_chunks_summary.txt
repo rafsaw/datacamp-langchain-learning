@@ -1,0 +1,77 @@
+CHUNKS SUMMARY
+==================================================
+
+Total chunks: 64
+Average content length: 398.0 characters
+Min content length: 75 characters
+Max content length: 650 characters
+Average token count: 86.8 tokens
+Min token count: 15 tokens
+Max token count: 100 tokens
+
+CHUNK DETAILS:
+------------------------------
+Chunk 001: 133 chars, 47 tokens, Page 0
+Chunk 002: 338 chars, 100 tokens, Page 1
+Chunk 003: 347 chars, 100 tokens, Page 1
+Chunk 004: 537 chars, 100 tokens, Page 1
+Chunk 005: 95 chars, 15 tokens, Page 1
+Chunk 006: 422 chars, 100 tokens, Page 2
+Chunk 007: 243 chars, 44 tokens, Page 2
+Chunk 008: 481 chars, 100 tokens, Page 3
+Chunk 009: 571 chars, 100 tokens, Page 3
+Chunk 010: 574 chars, 100 tokens, Page 3
+Chunk 011: 574 chars, 100 tokens, Page 3
+Chunk 012: 549 chars, 100 tokens, Page 3
+Chunk 013: 340 chars, 58 tokens, Page 3
+Chunk 014: 469 chars, 100 tokens, Page 4
+Chunk 015: 650 chars, 100 tokens, Page 4
+Chunk 016: 617 chars, 100 tokens, Page 4
+Chunk 017: 210 chars, 31 tokens, Page 4
+Chunk 018: 240 chars, 74 tokens, Page 5
+Chunk 019: 410 chars, 98 tokens, Page 6
+Chunk 020: 345 chars, 100 tokens, Page 7
+Chunk 021: 430 chars, 100 tokens, Page 7
+Chunk 022: 542 chars, 100 tokens, Page 7
+Chunk 023: 121 chars, 26 tokens, Page 7
+Chunk 024: 464 chars, 100 tokens, Page 8
+Chunk 025: 456 chars, 100 tokens, Page 8
+Chunk 026: 390 chars, 100 tokens, Page 8
+Chunk 027: 464 chars, 100 tokens, Page 8
+Chunk 028: 390 chars, 100 tokens, Page 8
+Chunk 029: 507 chars, 100 tokens, Page 8
+Chunk 030: 332 chars, 100 tokens, Page 8
+Chunk 031: 75 chars, 16 tokens, Page 8
+Chunk 032: 335 chars, 100 tokens, Page 9
+Chunk 033: 416 chars, 100 tokens, Page 9
+Chunk 034: 486 chars, 100 tokens, Page 9
+Chunk 035: 365 chars, 100 tokens, Page 9
+Chunk 036: 387 chars, 100 tokens, Page 9
+Chunk 037: 474 chars, 100 tokens, Page 9
+Chunk 038: 484 chars, 100 tokens, Page 9
+Chunk 039: 521 chars, 100 tokens, Page 9
+Chunk 040: 97 chars, 32 tokens, Page 9
+Chunk 041: 286 chars, 100 tokens, Page 10
+Chunk 042: 249 chars, 100 tokens, Page 10
+Chunk 043: 248 chars, 100 tokens, Page 10
+Chunk 044: 348 chars, 100 tokens, Page 10
+Chunk 045: 405 chars, 100 tokens, Page 10
+Chunk 046: 482 chars, 100 tokens, Page 10
+Chunk 047: 611 chars, 100 tokens, Page 10
+Chunk 048: 277 chars, 50 tokens, Page 10
+Chunk 049: 436 chars, 100 tokens, Page 11
+Chunk 050: 493 chars, 100 tokens, Page 11
+Chunk 051: 577 chars, 100 tokens, Page 11
+Chunk 052: 607 chars, 100 tokens, Page 11
+Chunk 053: 556 chars, 100 tokens, Page 11
+Chunk 054: 547 chars, 100 tokens, Page 11
+Chunk 055: 130 chars, 23 tokens, Page 11
+Chunk 056: 500 chars, 100 tokens, Page 12
+Chunk 057: 526 chars, 100 tokens, Page 12
+Chunk 058: 475 chars, 100 tokens, Page 12
+Chunk 059: 174 chars, 42 tokens, Page 12
+Chunk 060: 304 chars, 70 tokens, Page 13
+Chunk 061: 433 chars, 100 tokens, Page 14
+Chunk 062: 421 chars, 100 tokens, Page 14
+Chunk 063: 350 chars, 100 tokens, Page 14
+Chunk 064: 155 chars, 31 tokens, Page 14

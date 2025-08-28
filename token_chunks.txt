@@ -1,0 +1,1305 @@
+================================================================================
+DOCUMENT CHUNKS ANALYSIS
+================================================================================
+
+Total number of chunks: 64
+Source document: AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Splitter type: SemanticChunker
+Generated on: 2025-06-27 14:50:09
+Saved to: C:\Users\rafal\repos\datacamp-langchain-learning\token_chunks.txt
+
+------------------------------------------------------------
+CHUNK #001
+------------------------------------------------------------
+Chunk ID: 1
+Page: 0
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 47
+Content length: 133 characters
+
+CONTENT:
+0
+Report issued at 15:30 GMT on 13-Apr-2025
+TH Plastics, Inc
+AUDIT REPORT
+Re-certification 
+Report issued at 06:23 GMT on 04-Oct-2017
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #002
+------------------------------------------------------------
+Chunk ID: 2
+Page: 1
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 338 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+1
+Client ID#: CMPY-157914    
+Client/Address: TH Plastics, Inc
+680 Tyber Road, 
+Tiffin, Ohio, 44883, United States
+Audit Criteria: ISO 9001:2015
+Audit Activity: Re-certification 
+
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #003
+------------------------------------------------------------
+Chunk ID: 3
+Page: 1
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 347 characters
+
+CONTENT:
+2015
+Audit Activity: Re-certification 
+Date(s) of Audit: Tiffin, United States:
+10-Apr-2025 to 11-Apr-2025
+Auditor(s) (level): Marianne Case (Lead Auditor, Tiffin, United States)
+Scope of Audit and Scope of 
+Certification:
+Site: TH Plastics, Inc, Tiffin, Ohio, United States
+ISO 9001:2015:
+Manufacture and assembly of injection molded products.
+Ex
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #004
+------------------------------------------------------------
+Chunk ID: 4
+Page: 1
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 537 characters
+
+CONTENT:
+Manufacture and assembly of injection molded products.
+Exclusions from scope:
+8.3
+OVERALL RESULT: Action Required
+The management system was found to be effectively implemented although minor nonconformities were cited.
+ 
+ 
+EXECUTIVE SUMMARY 
+This audit concludes and confirms the audit objectives have been met, and the certification scope is appropriate. The 
+objectives are reviewed to update goals or expanding/changing of objectives during annual Management Review 
+meetings. The quality policy is also reviewed during these meetings
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #005
+------------------------------------------------------------
+Chunk ID: 5
+Page: 1
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 15
+Content length: 95 characters
+
+CONTENT:
+. The quality policy is also reviewed during these meetings to ensure consistency is maintained
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #006
+------------------------------------------------------------
+Chunk ID: 6
+Page: 2
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 422 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+2
+SWOT ANALYSIS
+  
+Strengths
+1) Commitment to the Quality Management System.
+2) Manufacturing environment is highly organized and 5S compliant.
+3) Detailed Internal audit process.
+Weaknesses
+Aside of 1 minor finding, ISO and TH Plastics specifications, procedures
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #007
+------------------------------------------------------------
+Chunk ID: 7
+Page: 2
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 44
+Content length: 243 characters
+
+CONTENT:
+ finding, ISO and TH Plastics specifications, procedures and work 
+instructions are compliant. 
+Opportunities
+Continue converting more tasks/records to electronic instead of manual/paper 
+documentation.
+Threats No immediate threats identified.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #008
+------------------------------------------------------------
+Chunk ID: 8
+Page: 3
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 481 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+3
+INTERTEK MATURITY MODEL
+The score descriptions are generic to all management systems and cannot be customized by the auditor, thus allowing 
+for the consistency of interpretation and standardization of audit results worldwide. The scores provided to your 
+organisation are for benchmarking purposes only and are based on
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #009
+------------------------------------------------------------
+Chunk ID: 9
+Page: 3
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 571 characters
+
+CONTENT:
+organisation are for benchmarking purposes only and are based on the audit team’s evaluation.
+Management Mature
+Consistent evidence of management commitment, customer and/or interested party satisfaction, 
+knowledge/awareness of policy and objectives being demonstrated by the majority of staff. Responsibility and 
+authority is evident and supported via data, trends and related KPI’s. Management reviews are complete and 
+demonstrate support by the majority of personnel. Records are complete and demonstrate positive trends in 
+improvement and lessons learned.
+Auditor
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #010
+------------------------------------------------------------
+Chunk ID: 10
+Page: 3
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 574 characters
+
+CONTENT:
+ in 
+improvement and lessons learned.
+Auditor Comments:
+Quarterly management review is attended by entire management staff and contain all required elements supporting 
+Quality Management System.  Data, trends and metrics are communicated to all personnel posted metrics 
+demonstrating consistent management commitment.
+Internal Audits Mature
+Internal audits are being performed at planned intervals and are based on status and importance of the Management 
+System. Data is being collected analyzed and reviewed by senior management on a regular basis. There exists a link 
+
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #011
+------------------------------------------------------------
+Chunk ID: 11
+Page: 3
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 574 characters
+
+CONTENT:
+ on a regular basis. There exists a link 
+between the internal audit results and the overall health of the Management System. Audit teams are trained, 
+impartial and objective in their approach. Audit reports are clear, concise and supported with applicable correction 
+actions. Management is involved in the corrective action process ensuring timely implementation and overall 
+effectiveness of resolution.
+Auditor Comments:
+Annual Internal Audit performed by internal corporate auditor covers all processes.  Results are addressed via 
+corrective action process as needed.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #012
+------------------------------------------------------------
+Chunk ID: 12
+Page: 3
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 549 characters
+
+CONTENT:
+ addressed via 
+corrective action process as needed. 
+Corrective Action Mature
+The corrective action process has demonstrated to be effective in practice. Data from sources such as customer and/or 
+interested party complaints, internal audits, warranty analysis, defects, internal metrics and supplier performance 
+show stability over time as the system matures. The process includes a thorough review of the effectiveness of the 
+actions taken. There is evidence of problem solving tools being used to support the process.
+Auditor Comments:
+Correct
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #013
+------------------------------------------------------------
+Chunk ID: 13
+Page: 3
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 58
+Content length: 340 characters
+
+CONTENT:
+ to support the process.
+Auditor Comments:
+Corrective action activities are generated by customer issues, internal audit results and other non-conforming issues 
+and documented in Management review.  
+Continuous Improvement Mature
+Data streams are being used as sources to drive continual improvement over time. These may include management
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #014
+------------------------------------------------------------
+Chunk ID: 14
+Page: 4
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 469 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+4
+system policy, objectives, and audit results, analysis of data, CAPA and management reviews. There is some evidence of 
+advanced techniques being used during the improvement cycle. Economic benefits have been realized.
+Auditor Comments:
+CI project tracking is used to identify and review projects and procure
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #015
+------------------------------------------------------------
+Chunk ID: 15
+Page: 4
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 650 characters
+
+CONTENT:
+ tracking is used to identify and review projects and procure resources funds to accomplish 
+improvements.  Projects are identified and accomplished to improve tracked metrics.
+Operational Control Mature
+Operational Controls are planned and developed. Planning of operational controls is consistent with all other 
+Management processes. Objectives, process requirements, needs for appropriate additional documents and resources, 
+verification and monitoring activities and records requirements have been determined, as appropriate. Processes and 
+activities run consistently. Data is collected, and reviewed to verify the effectiveness of operational
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #016
+------------------------------------------------------------
+Chunk ID: 16
+Page: 4
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 617 characters
+
+CONTENT:
+ collected, and reviewed to verify the effectiveness of operational controls with 
+evidence of significant improvement trends. Some evidence linking to some key business factors.
+Auditor Comments:
+Excellent operational controls are planned and consistently executed. 
+Resources Mature
+Resources required for the effective maintenance and improvement of the management system have been defined and 
+deployed. Improvements have been noted in areas such as customer and/or interested party satisfaction, continual 
+improvement, process variation. Levels of competency have been defined and documented within the existing
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #017
+------------------------------------------------------------
+Chunk ID: 17
+Page: 4
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 31
+Content length: 210 characters
+
+CONTENT:
+ of competency have been defined and documented within the existing 
+management system.
+Auditor Comments:
+Resource requirements for production and project activities are identified and effectively accomplished.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #018
+------------------------------------------------------------
+Chunk ID: 18
+Page: 5
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 74
+Content length: 240 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+5
+ 
+Rating: 5=Benchmark | 4=Mature | 3=Meets Intent | 2=Beginning | 1=Not Evident
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #019
+------------------------------------------------------------
+Chunk ID: 19
+Page: 6
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 98
+Content length: 410 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+6
+FINDING SUMMARY
+Minor Major
+Issued during current activity 1 0
+Opportunities for improvement have been identified
+Yes
+STATUS OF PREVIOUS AUDIT FINDINGS
+Follow-up on findings issued at previous audit:
+Prior assessment resulted in no non conformities.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #020
+------------------------------------------------------------
+Chunk ID: 20
+Page: 7
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 345 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+7
+FINDING DETAIL
+Finding #: Audit Criteria: Corrective Action 
+Plan Due Date:
+Corrective Action 
+Implementation Date:
+Finding 1800501 - 1 ISO 9001:2015 11-May-2025 11-Jul-2025
+Issued by:
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #021
+------------------------------------------------------------
+Chunk ID: 21
+Page: 7
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 430 characters
+
+CONTENT:
+ 11-Jul-2025
+Issued by: Classification: Document Ref#: Action Required:
+Marianne Case Minor Inspection,Measure & test 
+procedure 10.18.P.01 rev.25 
+9/30/21
+Submit Corrective action plan
+Finding:
+Calibration process not fully effective.
+Requirement:
+7.1.5.2a
+When measurement traceability is a requirement, or is considered by the organization to be an essential part of providing 
+confidence in the validity of measurement results
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #022
+------------------------------------------------------------
+Chunk ID: 22
+Page: 7
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 542 characters
+
+CONTENT:
+ of providing 
+confidence in the validity of measurement results, measuring equipment shall be calibrated or verified, or both, at 
+specified intervals, or prior to use, against measurement standards traceable to international or national measurement 
+standards; when no such standards exist, the basis used for calibration or verification shall be retained as documented 
+information.
+Objective Evidence:
+Calibration standards used for caliper#CAL000204 identified as Gage Block000017 and Ring00025. Calibration standard 
+used for Ring000025
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #023
+------------------------------------------------------------
+Chunk ID: 23
+Page: 7
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 26
+Content length: 121 characters
+
+CONTENT:
+25. Calibration standard 
+used for Ring000025 identified as CAL000204. Ineligibilty of measurement traceability standard.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #024
+------------------------------------------------------------
+Chunk ID: 24
+Page: 8
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 464 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+8
+EVIDENCE SUMMARY
+The state of the management system is summarized below:
+Conclusion of Client’s Processes/Functional areas audited including KPI/Metrics
+This audit concludes and confirms the audit objectives have been met aside of 1 minor finding and the certification 
+scope is appropriate.
+ 
+Processes
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #025
+------------------------------------------------------------
+Chunk ID: 25
+Page: 8
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 456 characters
+
+CONTENT:
+ and the certification 
+scope is appropriate.
+ 
+Processes identified are: Supply Chain (Purchasing, Production Planning, Warehouse/Shipping/Receiving), Operations 
+(Manufacturing, Quality Checks, Maintenance/Automation), Quality (Calibration) and HR/Training.
+              
+ 
+Supply Chain (Purchasing, Production Planning, Warehouse/Shipping/Receiving) Process:
+Process Owner: Chris Baird
+Process measure: On-time Delivery – goal=99.5%, 2024=100%, 2025ytd
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #026
+------------------------------------------------------------
+Chunk ID: 26
+Page: 8
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 390 characters
+
+CONTENT:
+2024=100%, 2025ytd=100%
+Process summary:
+1)      Purchasing process includes reviewing recent customer purchase orders to issue supplier PO’s. Reviewed 
+PO#1420-TMD to Washington Penn Plastics for 2135420 lbs. of Resin UP3F306 Appl Wht. C of A’s, visual characteristics 
+and packing slip reviewed and documented through IQMS upon receipt. Also reviewed PO#1423-TMD for insert 
+W1082990 from
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #027
+------------------------------------------------------------
+Chunk ID: 27
+Page: 8
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 464 characters
+
+CONTENT:
+-TMD for insert 
+W1082990 from GKN Sinter Metals for 22400 pieces. All activities are compliant with procedures and work 
+instructions.
+2)      Production Planning process summary: IQMS system generates schedule for daily, weekly and monthly forecasts 
+for 4 molded/assembled part numbers and 2 service parts. Information communicated from customers via EDI daily. 
+Reviewed 7 active work orders for Press#301 and IQMS work order priority sheet.
+3)      Warehouse/
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #028
+------------------------------------------------------------
+Chunk ID: 28
+Page: 8
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 390 characters
+
+CONTENT:
+ work order priority sheet.
+3)      Warehouse/Shipping/Receiving - Receiving and shipping process uses IQMS (MRP system) to monitor 
+activity.  Receipt of PO#1553-TMD for 2 machined parts from Custom Machine INC and PO#1518-TMD from Amazon 
+Business for Logitech keyboard. Shipping BOL#164695 reviewed for packing slip#3859-TMD for PN#W11170358 – 2880 
+pieces in 48 packages. All activities
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #029
+------------------------------------------------------------
+Chunk ID: 29
+Page: 8
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 507 characters
+
+CONTENT:
+0 
+pieces in 48 packages. All activities are compliant with procedures and work instructions.
+Effectiveness: The process as audited is effectively implemented.
+ 
+ 
+Operations (Manufacturing, Quality Checks, Maintenance/Automation) Process:
+Process Owner: Carl Roush – Plant Manager
+Process measure:  Metric display board displays press and assembly data live.  Overall plant metrics include:
+-         quality and delivery measures included in Management review metrics.
+-         OTD Goal 99.5% Current 100
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #030
+------------------------------------------------------------
+Chunk ID: 30
+Page: 8
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 332 characters
+
+CONTENT:
+TD Goal 99.5% Current 100%,
+-         PPM Goal: 25 Current YTD =12ppm. Client had 0 rejections @ customer in last 12 months.
+-         Press maintenance PM – goal=95%, 2025ytd=100%; Tooling Maintenance – goal=95%, 2025ytd =80%
+Process summary:
+1)      Manufacturing - Molding – MN, AM & PM shift (data from all shifts documented) BR
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #031
+------------------------------------------------------------
+Chunk ID: 31
+Page: 8
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 16
+Content length: 75 characters
+
+CONTENT:
+ PM shift (data from all shifts documented) BR1 cell including Mold Press #
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #032
+------------------------------------------------------------
+Chunk ID: 32
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 335 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+9
+301 observed for tool#2570 for PN#W11170354 for balance ring assembly#W11170358, Mold Press #332 for 
+tool#2579 for PN#W11459623 and Mold press #335 for tool#2686 for PN#W110
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #033
+------------------------------------------------------------
+Chunk ID: 33
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 416 characters
+
+CONTENT:
+ for tool#2686 for PN#W11093899 agitator part.  All found to be 
+compliant by setup parameters and passed first piece checks and final quality audit.  Training records produced for all 
+operators for job specific functions.
+2)      Quality checks - First piece checks reviewed for Whirlpool pn’s#W11170354 (cav 1 & 2) from Press#301 and 
+assembly#W11170358 various visuals and dimensions and found to be compliant to
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #034
+------------------------------------------------------------
+Chunk ID: 34
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 486 characters
+
+CONTENT:
+ various visuals and dimensions and found to be compliant to Inspection plan.
+3)      Maintenance/Automation - Preventative maintenance and unscheduled maintenance completed and 
+documented as specified. Mold press#301, Press#332 and Press#335, and mold tools@2570,#2579 and#2686 
+preventative maintenance documentation reviewed.  All data is documented in IQMS system.
+Effectiveness: The process as audited is effectively implemented.
+ 
+ 
+Quality (Calibration) Process:
+Process Owner: 
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #035
+------------------------------------------------------------
+Chunk ID: 35
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 365 characters
+
+CONTENT:
+Quality (Calibration) Process:
+Process Owner:  Steve Yessler
+Process measure:  Internal /External PPM, COPQ
+1) IPPM (internal)- goal<2000ppm, 2025ytd=2257
+Process summary: Quality checks and Calibration activities comply with specifications.  First piece and in-process 
+checks reviewed for Whirlpool pn’s#W11170354 (cav 1 & 2) from Press#301 and assembly#W11170358
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #036
+------------------------------------------------------------
+Chunk ID: 36
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 387 characters
+
+CONTENT:
+ Press#301 and assembly#W11170358, various visuals 
+and dimensions and found to be compliant to Inspection plan. Incoming inspection of insert PN#W11449811 from Ft. 
+Recovery and resin #W11352621 from Wash Penn lot#J0000531905 for 41,620 pounds reviewed. Calibration records 
+produced for 2 fixtures, 1 scale, 1 dial indicator, 1 caliper, CMM and 2 standards and verified for compliance.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #037
+------------------------------------------------------------
+Chunk ID: 37
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 474 characters
+
+CONTENT:
+MM and 2 standards and verified for compliance. An issue 
+was identified where a ring standard used to calibrate caliper was calibrated by that caliper thus resulting in minor 
+finding. All data is stored in the IQMS system.
+Effectiveness: The process as sampled is effectively implemented except for 1 minor finding.
+ 
+Human Resources/Training Sub- Process:
+Process Owner:  Tessi Goldsberry
+Process measure:  Employee turnover – current workforce turnover rate for goal<8%,
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #038
+------------------------------------------------------------
+Chunk ID: 38
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 484 characters
+
+CONTENT:
+ – current workforce turnover rate for goal<8%, 2024=20%, 2025ytd=13.4%
+Process summary: Job specific and forklift training completed and documented as required for operators Press#332 & 
+334 and Balance ring #1, all shifts and quality inspector; also reviewed forklift driver (7 molding operators, 2 forklift 
+driver and 3 quality technicians).
+Effectiveness: The process audited is effectively implemented.
+Conclusions regarding the audit of Mandatory Requirements
+Management review
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #039
+------------------------------------------------------------
+Chunk ID: 39
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 521 characters
+
+CONTENT:
+clusions regarding the audit of Mandatory Requirements
+Management review: Management reviews quarterly with all required inputs and outputs included in the agenda, 
+reviewing Contingency Plan for External and Internal issues. Top management and process owners attend the meeting. 
+The last meeting was 1/21/2025. KPI metrics are reviewed monthly and conduct meetings as necessary to identify risks 
+and develop priorities and focus on resolution. The following metrics are tracked:
+1)     Safety (incidents/100 workers) –
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #040
+------------------------------------------------------------
+Chunk ID: 40
+Page: 9
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 32
+Content length: 97 characters
+
+CONTENT:
+     Safety (incidents/100 workers) – goal=4.3 incidents/month, 12-month average = 0.0 (1 in Feb)
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #041
+------------------------------------------------------------
+Chunk ID: 41
+Page: 10
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 286 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+10
+2)      Lost Time – goal<0.2/mth, 12 mth average = 0.0 (1 in February 2025)
+3)     Turnover – goal<8%, 2024=20%, 2025ytd=13.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #042
+------------------------------------------------------------
+Chunk ID: 42
+Page: 10
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 249 characters
+
+CONTENT:
+20%, 2025ytd=13.4%
+4)     On-time Delivery – goal=99.5%, 2024=100%, 2025ytd=100%
+5)     Premium Freight – goal= $500/month, 2024=$478, 2025ytd=$0/mth
+6)     Inventory Turns (finished goods)– goal=25, 2025ytd=32/mth
+7)     Machine Potential - goal=85
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #043
+------------------------------------------------------------
+Chunk ID: 43
+Page: 10
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 248 characters
+
+CONTENT:
+
+7)     Machine Potential - goal=85%, 2025ytd=100%
+8)     Press maintenance PM – goal=95%, 2025ytd=100%
+9)     Tooling Maintenance – goal=95%, 2025ytd =80%
+10)  PPM (Whirlpool) - goal=25ppm, 2025ytd=12ppm
+11)  IPPM (internal)- goal<2000ppm, 2025ytd
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #044
+------------------------------------------------------------
+Chunk ID: 44
+Page: 10
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 348 characters
+
+CONTENT:
+<2000ppm, 2025ytd=2257
+12)  Cost % Sales – goal=1.3%, 2025ytd=1.29%
+13)  Capacity – goal=85%, actual=64%
+** All metrics outside of goals have been addressed and documented in weekly management meetings.
+Regarding clause 4.1and 4.2 amendment of ISO 9001:2015 specification: TH Plastics has considered climate change and 
+has appropriately documented
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #045
+------------------------------------------------------------
+Chunk ID: 45
+Page: 10
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 405 characters
+
+CONTENT:
+ics has considered climate change and 
+has appropriately documented status in Contingency Plan document 01.01.CP.01 rev.13 3/25/2025.
+Internal audit: Internal audits are conducted for process areas each year. Audit schedule for 2025 has been established 
+and completed. All processes were audited in 1/20-24/2025 with 1 internal auditor from corporate staff.  There were 2 
+documented findings and 2 OFI’s
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #046
+------------------------------------------------------------
+Chunk ID: 46
+Page: 10
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 482 characters
+
+CONTENT:
+ 
+documented findings and 2 OFI’s; CAR’s were initiated to address issues. LPA – Layered Process audit conducted daily; 
+monthly meeting to review issues identified.
+ 
+Review of previous NC’s: There were 0 NC’s during Surveillance 2 audit in 2024. 
+ 
+Corrective action and customer complaint: Customer feedback, corrective actions, customer complaints, internal 
+issues, internal audit findings and any other concerns are handled through the CAR format; either on customer 
+required
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #047
+------------------------------------------------------------
+Chunk ID: 47
+Page: 10
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 611 characters
+
+CONTENT:
+ through the CAR format; either on customer 
+required forms or internal format.   
+ 
+Continual improvement: Continual improvement is reviewed in management reviews, risk analysis, internal audit 
+program and business initiatives.
+ 
+Operational control: Procedures and work instructions are utilized throughout the processes of the quality 
+management system. Process measures monitor the effectiveness of the processes and objective measures monitor 
+the system overall. IQMS system provides excellent operational controls.
+ 
+Changes review: Change process is documented via purchase orders and product drawings
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #048
+------------------------------------------------------------
+Chunk ID: 48
+Page: 10
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 50
+Content length: 277 characters
+
+CONTENT:
+ Change process is documented via purchase orders and product drawings. New products and 
+engineering changes are monitored by Project engineers and tracked via APQP process and via IQMS system once in 
+production.
+ 
+Legal & Other requirements:  No other requirements reported.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #049
+------------------------------------------------------------
+Chunk ID: 49
+Page: 11
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 436 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+11
+ 
+Use of mark & certificate: The latest version of the ISO 9001:2015 certificate is available on website. Mark is not used 
+in any other capacity.
+ 
+Effectiveness of the system in regard to achieving client's objectives: The objectives are reviewed annually for updating 
+go
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #050
+------------------------------------------------------------
+Chunk ID: 50
+Page: 11
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 493 characters
+
+CONTENT:
+: The objectives are reviewed annually for updating 
+goals or expanding/changing objectives. The quality policy is also reviewed during this annual meeting to ensure 
+consistency is maintained.
+ 
+Verification of site notes: Site notes were verified, and it was found that there is a change in employee count (38 on 
+assignment letter – actual =41); an additional 0.25 days will be required for this Recertification audit. The scope 
+remains valid and exclusion of Product Design is verified as
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #051
+------------------------------------------------------------
+Chunk ID: 51
+Page: 11
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 577 characters
+
+CONTENT:
+ains valid and exclusion of Product Design is verified as this information is provided by customers.
+Review and conclusion of client performance trends since last certification/recertification (at recertification audit 
+and last surveillance audit prior to recertification)
+Positive trends during recent years in reported metrics. Audits show conformance is maintained to the standard and 
+internal established SOP and WI. Prior assessment resulted in 0 corrective actions for Surveillance 2 audit. 
+Management Review trends indicate the quality management system shows several
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #052
+------------------------------------------------------------
+Chunk ID: 52
+Page: 11
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 607 characters
+
+CONTENT:
+Management Review trends indicate the quality management system shows several improvements from previous 
+years to processes to improve product defects, functionality, measures and efficiency.
+Identified opportunities for improvement
+Continue converting more tasks/records to electronic instead of manual/paper documentation.
+Conclusions regarding risk assessment/risk treatment processes
+Risks identified by TH Plastics - Tiffin include supplier quality concerns, volume fluctuations from single customer and 
+staffing issues. TH Plastics conducts monthly update meetings as needed to review critical KPI's
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #053
+------------------------------------------------------------
+Chunk ID: 53
+Page: 11
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 556 characters
+
+CONTENT:
+ monthly update meetings as needed to review critical KPI's to determine what 
+activities are working/not working identify risks and distractions and develop priorities and focus on resolution. 
+Process areas are Supply Chain (Purchasing, Production Planning, Warehouse/Shipping/Receiving), Operations 
+(Manufacturing, Quality Checks, Maintenance/Automation), Quality (Calibration) and HR/Training. This activity is used 
+to identify the priority of risks, develops what actions mitigate the risks identified as priority, how has the organization 
+verified
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #054
+------------------------------------------------------------
+Chunk ID: 54
+Page: 11
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 547 characters
+
+CONTENT:
+ identified as priority, how has the organization 
+verified the action taken monitors the progress of the risks and actions identified. It is concluded that this process is an 
+effective in accessing and addressing risks.
+Conclusions regarding context of the organization
+The process that TH Plastics - Tiffin uses to determine the external and internal issues is through management review 
+meetings that review critical KPI's to determine what activities are working/not working. A variety of SWOT and KPI 
+evaluations were used to identify risks
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #055
+------------------------------------------------------------
+Chunk ID: 55
+Page: 11
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 23
+Content length: 130 characters
+
+CONTENT:
+ and KPI 
+evaluations were used to identify risks and distractions to develop priorities and focus on resolution for each process.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #056
+------------------------------------------------------------
+Chunk ID: 56
+Page: 12
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 500 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+12
+External and internal risks identified by TH Plastics include supplier quality concerns, volume fluctuations from single 
+customer and staffing issues. It is concluded that this process is an effective in identifying, accessing and addressing 
+risks.
+Additional information/unresolved issues
+No Additional Information or Unresolved Issues
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #057
+------------------------------------------------------------
+Chunk ID: 57
+Page: 12
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 526 characters
+
+CONTENT:
+resolved issues
+No Additional Information or Unresolved Issues noted.
+Communication/Changes during the visit (if applicable)
+No notable Communications or Changes occurred during the audit.  The audit was conducted as planned.
+References to appendices:
+Interview record; Audit plan (as executed)
+Have all shifts been audited:
+Yes
+The audit has been performed according to audit plan meeting audit objectives, scopes and duration (on-site and 
+off-site) as given within the audit plan
+This audit concludes and confirms the audit
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #058
+------------------------------------------------------------
+Chunk ID: 58
+Page: 12
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 475 characters
+
+CONTENT:
+ audit plan
+This audit concludes and confirms the audit objectives have been met aside of 1 minor finding and the certification 
+scope is appropriate.  The audit has been performed according to the audit plan by meeting the audit objectives, scope 
+and duration as given within the audit plan.
+Have there been any changes to Scope?
+No
+Have there been any changes to Headcount?
+Yes
+There is a change in employee count (38 on assignment letter – actual =41); an additional 0.25
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #059
+------------------------------------------------------------
+Chunk ID: 59
+Page: 12
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 42
+Content length: 174 characters
+
+CONTENT:
+ actual =41); an additional 0.25 days will be required for 
+this Recertification audit. 
+Have there been any Address Changes?
+No
+Have there been any Sites Added / Removed?
+No
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #060
+------------------------------------------------------------
+Chunk ID: 60
+Page: 13
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 70
+Content length: 304 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+13
+Have there been any Other Changes?
+No
+No Significant Changes noted during the Audit that have impact on the current Quality Management System.
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #061
+------------------------------------------------------------
+Chunk ID: 61
+Page: 14
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 433 characters
+
+CONTENT:
+TH Plastics, Inc  AUDIT REPORT
+This report and all its content is confidential and remains the property of Intertek.
+Report issued at 15:30 GMT on 13-Apr-2025
+14
+LEAD AUDITOR RECOMMENDATION
+Lead Auditor's Recommendation for ISO 9001:2015
+The nonconformity(ies) identified do not jeopardize the certification of the management system. Continued 
+certification is therefore recommended pending acceptance of the corrective action plans
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #062
+------------------------------------------------------------
+Chunk ID: 62
+Page: 14
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 421 characters
+
+CONTENT:
+ is therefore recommended pending acceptance of the corrective action plans(s) for identified 
+nonconformity(ies).
+ 
+OTHER OR ADDITIONAL LEAD AUDITOR 
+RECOMMENDATION
+No Additional Lead Auditor Recommendations Noted During the Audit.
+CLIENT ACKNOWLEDGEMENT
+ 
+Client Representative Name and Mailing 
+Address:
+Penny Harmon (corporate)
+Steve Yessler (local)
+680 Tyber Road,
+Tiffin, Ohio, 44883, United States
+Acknowledged By:
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #063
+------------------------------------------------------------
+Chunk ID: 63
+Page: 14
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 100
+Content length: 350 characters
+
+CONTENT:
+44883, United States
+Acknowledged By: Penny Harmon (corporate), p.harmon@thplastics.com, +1 
+269.496.8495 x1133
+Steve Yessler (local), s.yessler@thplastics.com, 567-268-4200x5528
+This report is based on a sample of evidence collected during the audit; therefore the results and conclusions include an element of 
+uncertainty.  This report and all its
+
+============================================================
+
+------------------------------------------------------------
+CHUNK #064
+------------------------------------------------------------
+Chunk ID: 64
+Page: 14
+Source: 02-RAG-LangChain/AuditSummaryDraft-ENG_CMPY-157914_ACTY-2022-532608.pdf
+Token count: 31
+Content length: 155 characters
+
+CONTENT:
+uncertainty.  This report and all its content is subject to an independent review prior to a decision concerning the awarding or renewal of 
+certification.
+
+============================================================
+
