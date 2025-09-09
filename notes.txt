@@ -12,3 +12,6 @@ pip freeze > requirements.txt
 
 
 python 02-RAG-LangChain\03\01-wikipedia-soundgarden.py
+
+cd C:\Users\rafal\repos\datacamp-langchain-learning\03-designing-agentic-systems-with-langchain\01\ 
+python 02.py
